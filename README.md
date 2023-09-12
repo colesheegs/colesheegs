@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🌱 I'm currently learning Data Analytics at Denison University.
+### 💬 Talk to me or ask me about sports analytics or hockey statistics & analytics.
+### I love working on NHL and hockey performance analytics.
 
 <!--
 **colesheegs/colesheegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
