@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm currently learning Data Analytics at Denison University.
+#### I'm currently learning Data Analytics and Economics at Denison University.
 #### Talk to me or ask me about sports analytics, hockey statistics & analytics, or any thing hockey.
 #### I love working on NHL and hockey performance analytics.
 
